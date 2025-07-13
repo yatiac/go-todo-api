@@ -21,7 +21,10 @@
 			"extensions": [
 				"golang.go",
 				"kilocode.kilo-code"
-			]
+			],
+			"settings": {
+				"terminal.integrated.inheritEnv": true
+			}
 		}
 	},
 
